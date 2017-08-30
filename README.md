@@ -19,7 +19,7 @@ Please note that talks should not be of a *political* nature. That is, they shou
 
 ## Propose a ⚡ Lightning Talk
 
-If you are interested in proposing a civic lightning talk, please create an [issue](https://github.com/innovatesac/cityhall/issues) using the following format:
+If you are interested in proposing a Civic Lightning Talk, please create an [issue](https://github.com/innovatesac/cityhall/issues) using the following format:
 
 ```
 Name:
@@ -32,7 +32,7 @@ Brief Description:
 
 Don't have a GitHub account? No problem. [Use this form to submit your proposed talk](https://goo.gl/forms/hdOjmH6zs1Qs54853) and our [mofiebot](https://github.com/mofiebot) will take care of the rest!
 
-### Frequently Asked Questions (thanks [SacJS!](https://github.com/sacjs/sacjs.github.io/blob/master/speaking.md))
+## Frequently Asked Questions (thanks [SacJS!](https://github.com/sacjs/sacjs.github.io/blob/master/speaking.md))
 
 #### Do I need to be an expert to talk?
 
