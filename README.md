@@ -1,5 +1,5 @@
 # City Hall Hack Night: Civic ⚡ Lighting Talks
-### Tuesday, September 5, 2017
+### Tuesday, September 5, 2017, 6:30 - 9 p.m.
 ### Sacramento City Hall, Room 1119
 ### Sacramento, CA 95814
 ### [RSVP on Meetup](https://www.meetup.com/Code4Sac/events/242619998/)
